@@ -1,9 +1,9 @@
-import { LoginPage } from './components/LoginPage.jsx';
+import { Homepage } from './components/Homepage.jsx';
 
 export const App = () => {
   return (
     <>
-      <LoginPage />
+      <Homepage />
     </>
   );
 };
