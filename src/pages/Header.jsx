@@ -1,7 +1,7 @@
-import './../Css/Homepage.css';
-import { Socialbutton } from './Socialbutton';
+import './../Css/Header.css';
+import { Socialbutton } from '../components/Socialbutton';
 
-export const Homepage = () => {
+export const Header = () => {
   return (
     <>
       <header className="w-full fixed top-0 left-0 bg-amber-600 shadow-md flex items-center h-16 justify-between-px-4">

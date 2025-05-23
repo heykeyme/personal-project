@@ -1,9 +1,11 @@
-import { Homepage } from './components/Homepage.jsx';
+import { Header } from './pages/Header';
+import { Maincontent } from './pages/Maincontent';
 
 export const App = () => {
   return (
     <>
-      <Homepage />
+      <Header />
+      <Maincontent/>
     </>
   );
 };
