@@ -12,11 +12,8 @@ export const Profilecard = () => {
           />
 
           <div className="flex mt-6 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded justify-center">
-            <a
-              href="https://drive.google.com/file/d/1NgVdRWpDNj1q2rn6RjTQYYlKbW5MSoun/view?usp=sharing"
-              className="text-center"
-            >
-              Resume
+            <a href="/personal-project/assets/Resume_Hakimi.pdf" target="_blank" className="text-center">
+              View Resume
             </a>
           </div>
         </div>
