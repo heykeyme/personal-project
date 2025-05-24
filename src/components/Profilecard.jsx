@@ -1,9 +1,9 @@
-import './../Css/Profilecard.css'
+import './../Css/Profilecard.css';
 
 export const Profilecard = () => {
   return (
     <>
-      <div className="h-[700px] w-[1300px] my-auto border-8 bg-slate-300 rounded-2xl hover:shadow-slate-800 border-slate-50 flex items-center flex-row justify-center self-start ">
+      <div className="h-[700px] w-full max-w-[1300px] px-4 my-auto border-8 bg-slate-300 rounded-2xl hover:shadow-slate-800 border-slate-50 flex items-center flex-row justify-center self-start ">
         <div className="h-[300px] w-[300px] flex-col flex items-center justify-center ">
           <img
             src="https://media.licdn.com/dms/image/v2/D5603AQF475GvQBSbBw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706509427761?e=1753315200&v=beta&t=94NEDqQ2L40BWx8nVLueDDAxon_Mt8k2XcqGKnanCiM"
