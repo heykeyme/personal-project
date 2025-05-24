@@ -4,7 +4,7 @@ import { Socialbutton } from '../components/Socialbutton';
 export const Header = () => {
   return (
     <>
-      <header className="w-full fixed top-0 left-0 bg-amber-600 shadow-md flex items-center h-16 justify-between-px-4">
+      <header className="w-full top-0 left-0 bg-amber-600 shadow-md flex items-center h-16 justify-between-px-4">
         <div className="text-container">
           <p className="px-4 font-Inter text-lg font-extrabold m-auto">
             Hakimi Halim | Bachelor in IT | Freelance Software Developer
